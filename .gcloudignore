@@ -1,0 +1,10 @@
+# Files that never need to reach Cloud Build.
+.git/
+.gitignore
+.claude/
+implementation_plan.md
+
+# Source artwork and unused mockups (the shipped set lives in assets/).
+logo-bg.png
+about_company.png
+hero_tech.png
