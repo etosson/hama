@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hama.sa/sitemap.xml
